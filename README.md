@@ -1,6 +1,8 @@
-# Flask Sample Application
+# Flask CC Assets APIs Application
 
-This repository provides a sample Python web application implemented using the Flask web framework and hosted using ``gunicorn``. It is intended to be used to demonstrate deployment of Python web applications to OpenShift 3.
+APIs to detect and apply operation to a Creative Cloud Assets events.
+
+This repository is based on a sample Python web application implemented using the Flask web framework and hosted using ``gunicorn``. It is intended to be used to demonstrate deployment of Python web applications to OpenShift 3.
 
 ## Implementation Notes
 
